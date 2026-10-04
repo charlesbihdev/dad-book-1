@@ -246,8 +246,8 @@ bullet("It has occurred only twice in the Bible (Acts 11:15; 15:8).", keep=True)
 scripture("Acts 11:15")
 scripture("Acts 15:8")
 # sheet 5
-bullet("Jesus was the administrator of Holy Spirit baptism (John 1:3).", keep=True)
-scripture("John 1:3")
+bullet("Jesus was the administrator of Holy Spirit baptism (John 1:33).", keep=True)
+scripture("John 1:33")
 bullet("The Holy Spirit baptism was a promise, not a command (Acts 1:3-8).",
        keep=True)
 scripture("Acts 1:3-8")

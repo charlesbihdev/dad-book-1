@@ -21,7 +21,7 @@ are distinct, and Dad numbered them 1 to 6 (handwritten, top-right).
 | 2 | `.30 (1)` (loose) | Q2 cont. (1 Cor 3:16; 1 Cor 6:19; 1 Thess 5:19; 1 Jn 3:24); Q3 Role in the first-century Church (Heb 2:3-4; Acts 8:18; 1 Cor 13:8-13) |
 | 3 | `zip - .30` | Q4 Role in Christians today (2 Thess 2:13-14; Eph 3:16; 2 Thess 2:16-17; Eph 1:13-14; 4:30; Gal 5:22-23); Q5 The Trinity (Gen 1:26; Lk 3:21-22) |
 | 4 | `zip - .31` | HOLY SPIRIT BAPTISM: tongues claim (1 Cor 12:28-31; 1 Cor 12:13); "2. What makes Holy Spirit baptism unique" (Acts 11:15; 15:8) |
-| 5 | `zip - .31 (1)` | Unique cont. ("John 1:3"; Acts 1:3-8; H. Leo Boles quote; Acts 2:1-4; Acts 11:15-16; water baptism valid till the end) |
+| 5 | `zip - .31 (1)` | Unique cont. ("John 1:3", set to John 1:33; Acts 1:3-8; H. Leo Boles quote; Acts 2:1-4; Acts 11:15-16; water baptism valid till the end) |
 | 6 | `zip - .31 (2)` | "3. What was the purpose of the Holy Spirit baptism" (Jn 14:26; Jn 16:13; Acts 20:26-27; Jude 3; 2 Pet 1:3; Acts 11:15; Jn 15:27; 1 Jn 1:1-3) |
 
 ## Numbering

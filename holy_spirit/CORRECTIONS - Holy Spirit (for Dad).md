@@ -5,14 +5,17 @@ been replaced with the English NIV, keeping your headings, your numbering, and
 your points. Nothing was changed quietly.
 
 
-QUESTIONS FOR YOU
+CHANGE MADE (please confirm this is okay)
 
-1. Sheet 5. "Jesus was the administrator of Holy Spirit baptism" cites John 1:3,
-   and the Twi quoted is John 1:3 ("Through him all things were made"). That verse
-   is about creation. The verse that says Jesus baptizes with the Holy Spirit is
-   John 1:33 ("the man on whom you see the Spirit come down and remain is the one
-   who will baptize with the Holy Spirit"). It looks like the 3 at the end was
-   dropped. Kept as John 1:3 for now. Should it be John 1:33?
+1. Sheet 5. "Jesus was the administrator of Holy Spirit baptism" cited John 1:3,
+   and the Twi quoted was John 1:3 ("Through him all things were made"). That
+   verse is about creation. The verse that says Jesus baptizes with the Holy
+   Spirit is John 1:33 ("the man on whom you see the Spirit come down and remain
+   is the one who will baptize with the Holy Spirit"). It looks like the final 3
+   was dropped. It was set to John 1:33, and John 1:33 is quoted. Please confirm.
+
+
+QUESTION FOR YOU
 
 2. Sheet 6 ends with the 1 John 1:1-3 quotation at the very bottom of the page.
    Is there a seventh sheet? If so, please send a photo.

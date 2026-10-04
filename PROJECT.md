@@ -68,3 +68,25 @@ Each topic folder (for example `sabath/`) holds:
 To regenerate a topic draft: run its `build_<topic>.py` from inside the topic folder.
 
 Agent memory (durable context across sessions) lives in the Claude projects memory directory, not here.
+
+## Filling in NIV text (handoff for an agent with web access)
+
+Four chapters were typed with Twi scripture and are fully transcribed, but their NIV text could not be fetched (Bible sites were blocked in that session). Every quoted passage prints as "[NIV TEXT PENDING]" until filled in. Nothing else in these chapters needs redoing.
+
+Where to fill it in: each script has a `VERSES = { }` dictionary near the top, just above the CONTENT section. Add one entry per passage, keyed by the exact reference string the script uses:
+- `miracles/build_miracles.py` (40 passages)
+- `holy_spirit/build_holy_spirit.py` (36 passages)
+- `tongues/build_tongues.py` (18 passages)
+- `love/build_love.py` (35 passages)
+
+Example entry: `"Hebrews 13:8": "Jesus Christ is the same yesterday and today and forever.",`
+
+To see exactly which keys are still missing, run the script from inside its topic folder (for example `cd tongues && python3 build_tongues.py`). The last line lists every pending reference. Repeat until it reports 0, then commit the rebuilt drafts.
+
+How to enter the text:
+- Source: the NIV (2011) from an authoritative site such as biblegateway.com (version=NIV). Never type it from memory.
+- Copy the words exactly as printed, em dashes and inner quotation marks included. Scripture is a quotation and is never edited (see the em dash rule above).
+- Leave out verse numbers, section headings, and footnote or cross-reference markers. Join a multi-verse passage into one string with single spaces.
+- Do not add outer quotation marks or the reference; `scripture()` adds both.
+- Split references: `1 Corinthians 14:27a` is the first clause of the verse (how many may speak), and `1 Corinthians 14:27b` is the rest (one at a time, someone must interpret). Split the NIV verse at that point, without changing any words.
+- The keys are the references Dad cited, already checked. Some were deliberately set or kept (for example John 1:33 in Holy Spirit; Acts 8:14-18 in Tongues, where the Twi had wrongly pasted Acts 10:14-18). Quote the key's own passage; do not swap references. Questions about references belong in that topic's CORRECTIONS file, not in the script.

@@ -68,6 +68,86 @@ Exodus 30:7-8; Genesis 17:13) check out correctly.
 
 
 Every other Bible reference on pages 1 to 12 was checked against the NIV and
-matches the point being made. This note will be extended as the rest of the
-chapter (the prophecy-and-fulfilment section and the Ten Commandments section) is
-typed.
+matches the point being made.
+
+
+PAGES 13 TO 17 ("Note these from the Old Testament laws")
+
+9. Page 16. The point is titled "Three things in the Ark" but cites Hebrews 9:1.
+   Hebrews 9:1 only mentions the regulations for worship and the earthly
+   sanctuary. The three items in the ark (the gold jar of manna, Aaron's staff,
+   and the stone tablets) are in Hebrews 9:4. So the quotation was extended to
+   Hebrews 9:1-5, so that the "three things" actually appear in the text.
+   Please confirm this is okay, or tell me to quote only 9:4.
+
+About the scripture in this section: on these pages Dad had typed the verses in
+Twi. They have now been replaced with the English NIV, and the NIV wording was
+taken from an authoritative NIV source (not from memory), so it should be
+accurate. Even so, please give the quoted verses one final read against a printed
+NIV before publishing, since exact wording matters.
+
+A publishing note (not a correction): a book that quotes this many NIV verses
+normally needs the standard NIV copyright notice in the front matter, and for very
+large amounts of quoting, written permission from the publisher (Biblica /
+Zondervan). Worth checking before printing.
+
+PAGES 18 TO 23 (the prophecy-and-fulfilment table)
+
+10. Page 22, row 15. The paper reads "Psalm 109:44", but Psalm 109 has only 31
+    verses, so 109:44 does not exist. The verse that fits "He prayed for His
+    enemies" (and that matches the Twi text Dad quoted) is Psalm 109:4. It was set
+    to Psalm 109:4. Please confirm.
+
+11. Page 23, row 24. The paper cites Psalm 22:2 for "Darkness upon Calvary"
+    (fulfilled in Matthew 27:45). Psalm 22:2 does not mention darkness ("My God, I
+    cry out by day, but you do not answer..."). The usual prophecy of the midday
+    darkness is Amos 8:9. Dad's reference was kept as Psalm 22:2, but please review
+    whether he meant Amos 8:9.
+
+12. Page 23. Psalm 22:17-18 is used for two different rows: row 14 ("They gambled
+    for His clothes") and row 26 ("Stripped before men"). Both were kept as Dad
+    wrote them. Just flagging that the same reference appears twice.
+
+13. Page 23, row 18. Dad cites Mark 15:27-28 for "Crucified with criminals". In
+    the NIV, verse 28 ("he was numbered with the transgressors") is not in the main
+    text (it is a footnote), so the cell shows verse 27 only. This is normal for
+    the NIV.
+
+A small arrangement note: on page 23, rows 17 to 28 were listed without a single
+Law/Prophets/Psalms heading (they are a mix). In the book they are placed under a
+heading called "Further prophecies" so the table stays readable. The order and the
+references are exactly as Dad wrote them.
+
+PAGES 24 TO 28 (the Ten Commandments analysis, and Zion versus Sinai)
+
+14. Page 26. The paper reads "Num 5:32-36" for the man stoned for gathering wood on
+    the Sabbath. That account is Numbers 15:32-36 (Numbers 5 is about something
+    else). It was set to Numbers 15:32-36. Please confirm.
+
+15. Page 28. Dad crossed out the "Zion symbolizes the City of God..." sentence and
+    replaced it (handwritten in the margin) with a concluding line. It is now placed
+    at the end of the Ten Commandments section, as: "A breach of a Ten Commandment
+    law in the Old Testament attracted death; but in the New Testament it is now for
+    repentance." The last word was hard to read (read here as "repentance"). Please
+    confirm the exact ending.
+
+Small note: the commandment headings (for example "You shall have no other gods
+before me") are printed in English from the NIV, with Dad's verse labels (v3, v4,
+and so on). Under "You shall not covet," the three Old Testament examples (death
+for Achan, leprosy for Gehazi, death for Judas) were listed as Dad wrote them,
+without added references.
+
+PAGES 31 TO 38 (worship differences; Christianity is not Judaism; superiority)
+
+16. Worship-differences table (pages 31-32). Several rows use the same verse for
+    both the Old and New columns (Hebrews 7:28; Hebrews 8:6; 2 Corinthians 3:9). In
+    those rows the verse is printed once across the row instead of twice. The
+    contrast between old and new is in the wording of each side.
+
+17. Page 35. Dad cited Acts 6:7 twice (once for "Jewish priests became obedient"
+    and once for "the disciples multiplied"). Since it is the same verse, the two
+    points were combined into one. Please confirm this is fine.
+
+That completes the Sabbath chapter (pages 1 to 38). Reminder: the Bible quotations
+throughout were taken from an authoritative NIV source, but please give them one
+final read against a printed NIV before publishing.
